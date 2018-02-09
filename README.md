@@ -1,13 +1,13 @@
 # Project Kuliah Online Store
 
-#Home
+# Home
 ![alt text](https://raw.githubusercontent.com/etlanda24/onlinestore/master/os1.png)
 
-#Chart
+# Chart
 ![alt text](https://raw.githubusercontent.com/etlanda24/onlinestore/master/os2.png)
 
-#Checkout
+# Checkout
 ![alt text](https://raw.githubusercontent.com/etlanda24/onlinestore/master/os3.png)
 
-#Print
+# Print
 ![alt text](https://raw.githubusercontent.com/etlanda24/onlinestore/master/os4.png)
